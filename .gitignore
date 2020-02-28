@@ -40,3 +40,8 @@ cmake-build*
 /.gtm/
 
 *.deb
+
+
+#Added by cargo
+
+/target
